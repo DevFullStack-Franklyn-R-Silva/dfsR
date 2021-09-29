@@ -1,3 +1,4 @@
+
 # dfsR
 Escreva uma versão iterativa da função dfsR() (https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/dfs.html#example-A) para grafos representados por matriz de adjacências.
 
@@ -22,9 +23,20 @@ Usei esse grafo de exemplo:
 			addArestas(1, 3);
 			addArestas(2, 4);
 			addArestas(2, 5);
+			// use tbm esse outro exemplo 
+//			addArestas(0, 1, 2);
+//			//addArestas(1, 4, 8);
+//			addArestas(2, 3);
+//			addArestas(3, 0, 4, 5);
+//			addArestas(4, 5);
+//			addArestas(5, 1);
+//			addArestas(6, 7, 8, 9);
+//			addArestas(7, 9);
+//			addArestas(8, 9);
+//			addArestas(9, 1);
 ```  
 ### modifiquei aqui o tamanho do grafo
-
+#### Vale resaltar que o algoritmo funciona com maximo de 10
 ```java
 	public static void main(String[] args) {
 		
