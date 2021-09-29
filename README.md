@@ -1,0 +1,2 @@
+# dfsR
+Escreva uma versão iterativa da função dfsR() (https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/dfs.html#example-A) para grafos representados por matriz de adjacências.
