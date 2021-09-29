@@ -3,3 +3,8 @@ Escreva uma versão iterativa da função dfsR() (https://www.ime.usp.br/~pf/alg
 
 ## BuscaProfundidade
 Implementação da Busca em Profundidade.
+
+## O que precisa?
+> Java 16
+
+> E excutar o código
