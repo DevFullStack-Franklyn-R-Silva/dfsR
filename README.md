@@ -36,3 +36,8 @@ Usei esse grafo de exemplo:
 
 	}
 ```
+# O resultado é esse: 
+
+<p align="center">
+    <img align="center" alt="res" src="res.png" width="500" height="200" />
+</p>
