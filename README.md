@@ -8,3 +8,8 @@ Implementação da Busca em Profundidade.
 > Java 16
 
 > E excutar o código
+
+Usei esse grafo de exemplo:
+<p align="center">
+    <img align="center" alt="exemplo" src="exemplo.png" width="800" height="200" />
+</p>
